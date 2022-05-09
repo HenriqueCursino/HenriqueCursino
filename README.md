@@ -1,9 +1,6 @@
 ### Olá, me chamo Henrique. Seja bem-vindo ou bem-vinda ao meu perfil!
 
-- 🤓 Atualmente sou estudante na Trybe.
-- 🌱 Estou cursando o Módulo de Desenvolvimento Back-end.
-- 💡 Tenho interesse em aprimorar minhas habilidades em Desenvolvimento Back-end.
-- ✅ Já finalizei os módulos: Fundamentos do Desenvolvimento Web e Desenvolvimento Front-end.
+- 💡 Minhas stacks favoritas: React.JS, Node.JS, Express, SQL, MongoDB.
 
   <div>
   <a href="https://github.com/HenriqueCursino">
