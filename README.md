@@ -1,6 +1,6 @@
 ### Olá, me chamo Henrique. Seja bem-vindo ou bem-vinda ao meu perfil!
 
-- 💡 Minhas stacks favoritas: Go, Node.JS, Express, SQL, MongoDB.
+- 💡 Minhas stacks favoritas: Go, Node.JS, Express, MySQL, PostgreSQL, MongoDB.
 
   <div>
   <a href="https://github.com/HenriqueCursino">
